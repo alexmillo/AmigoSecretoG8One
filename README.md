@@ -15,7 +15,7 @@ No se requiere instalación, ya que es un proyecto web basado en HTML, CSS y Jav
 
 ## Uso
 1. Local: Abre el archivo `index.html` en tu navegador.
-2. Web: Ingresa a 
+2. Web: Ingresa a https://alexmillo.github.io/AmigoSecretoG8One/
 3. Ingresa nombres en el campo de texto y haz clic en "Añadir".
 4. Una vez agregados los nombres, presiona el botón "Sortear Amigo" para seleccionar aleatoriamente un amigo secreto.
 5. El resultado se mostrará en pantalla.
